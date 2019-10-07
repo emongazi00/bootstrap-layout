@@ -1,0 +1,86 @@
+/*11111111111*/
+.col-md-12{
+	height:100px;
+	width:100px;
+	background-color: red;
+	margin-bottom:15px;
+}
+
+/*222222222222*/
+
+.col-md-6{
+	height:100px;
+	width:100px;
+	margin-bottom:15px;
+}
+
+.second1{
+	background-color: red;
+}
+.second2{
+	background-color: green;
+}
+
+/*333333333333*/
+
+.col-md-4{
+	height:100px;
+	width:100px;
+	margin-bottom:15px;
+}
+
+.third1{
+	background-color: red;
+}
+.third2{
+	background-color: green;
+}
+.third3{
+	background-color: blue;
+}
+/*444444444444444*/
+.col-md-3{
+	height:100px;
+	width:100px;
+	margin-bottom:15px;
+}
+
+.fourth1{
+	background-color: red;
+}
+.fourth2{
+	background-color: green;
+}
+.fourth3{
+	background-color: blue;
+}
+.fourth4{
+	background-color: orange;
+}
+/*55555555555555*/
+.col-md-2{
+	height:100px;
+	width:100px;
+	margin-bottom:15px;
+}
+
+.fifth1{
+	background-color: red;
+}
+.fifth2{
+	background-color: green;
+}
+.fifth3{
+	background-color: blue;
+}
+.fifth4{
+	background-color: orange;
+}
+.fifth5{
+	background-color: lightblue;
+}
+.fifth6{
+	background-color: yellow;
+}
+
+
